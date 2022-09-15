@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/mr-ricardoberti.lwc-l829ynzs-fork-l82ahnxe",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 7m6Ou6q8nSb3LxYzg71F --open"
+  }
+}
